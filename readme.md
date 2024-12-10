@@ -1,5 +1,5 @@
 # Comparison among End-to-End Self Driving Solutions using Bench2Drive
-This repo is for ROB 530 Final Project
+This repo is for ROB 535 Final Project
 
 Abstract: This project aims to construct three established end-to-end self-driving systems and test their performance on the NuScenes dataset. Through analyzing the results qualitatively and quantitatively, the strengths and limitations of each model can be furthered declared.
 
